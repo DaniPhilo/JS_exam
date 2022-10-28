@@ -24,10 +24,7 @@ num x 2 = ...
 ## Ejercicio 6
 Escribe una función que acepte un número e imprima por consola todos los números del 0 a dicho número que sean múltiplos de 3. Recuerda: un número es múltiplo de N cuando al dividirlo por N el resto es 0.
 
-## Ejercicio 7
-Escribe una función que acepte una letra (string) y un número y devuelva un string con la letra repetida dicho número de veces.
-
-## Ejericio 8
+## Ejericio 7
 El cálculo de la letra del Documento Nacional de Identidad (DNI) es un proceso matemático sencillo que se basa en obtener el resto de la división entera del número de DNI y el número 23. A partir del resto de la división, se obtiene la letra seleccionándola dentro de un array de letras.
 
 El array de letras es:
