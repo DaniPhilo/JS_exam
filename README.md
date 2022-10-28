@@ -4,7 +4,7 @@
 Crea una función que acepte un array de números y devuelva la suma de los números pares del array.
 
 ## Ejercicio 2
-Usando un bucle `for`, escribe una función que acepte un número y muestre por consola la lista de números desde el 0 al valor tecleado.
+Usando un bucle `for`, escribe una función que acepte un número y muestre por consola la lista de números desde el 0 al valor introducido en al función.
 
 ## Ejercicio 3
 Escribe una función que acepte un número y muestre por consola una cuenta atrás, es decir, una lista de numeros desde el número tecleado hasta el 0.
@@ -13,12 +13,19 @@ Escribe una función que acepte un número y muestre por consola una cuenta atr�
 Escribe una función que acepte un número y devuelva la lista de todos los números pares del 0 al número introducido.
 
 ## Ejercicio 5
-Escribe una función que acepte un número e imprima por consola la tabla de multiplicar de dicho número (del 0 al 10) siguiendo este patrón:
+Escribe una función que acepte un número e imprima por consola la tabla de multiplicar (del 0 al 10) de dicho número siguiendo este patrón:
 ```javascript
-num x 0 = 0
-num x 1 = ...
-num x 2 = ...
-// etc.
+num x 0 = <result>
+num x 1 = <result>
+num x 2 = <result>
+num x 3 = <result>
+num x 4 = <result>
+num x 5 = <result>
+num x 6 = <result>
+num x 7 = <result>
+num x 8 = <result>
+num x 9 = <result>
+num x 10 = <result>
 ```
 
 ## Ejercicio 6
